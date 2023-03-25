@@ -1,0 +1,7 @@
+{
+  "database": "dbmalware",
+  "server": "dbmalwarealinstante2023.mysql.database.azure.com",
+  "port": 3306,
+  "user": "AdminUser",
+  "password": "malware2023*"
+}
